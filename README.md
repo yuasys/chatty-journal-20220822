@@ -7,6 +7,12 @@
  <p>今のやり方では毎日の日誌の数だけリポジトリができてしまう。
  これはどう考えてもあまり意味のないことだとおもう。<br>
  せめて、年に一つのリポジトリにしておいて、同一リポジトリ内に年月フォルダを設置して、その中にに日付別にmdファイルを置くというやり方に変更すべきと思う。</p>
+ 
+ ### $ npx create-docusaurus@latest my-website classic　コマンドでdocusaurusをいじってみる
+ ```bash
+ $ npx create-docusaurus@latest my-website classic
+ ```
+ 
 </details>
 
 <hr/>
